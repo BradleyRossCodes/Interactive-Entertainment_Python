@@ -16,6 +16,7 @@ Data highlighting major releases across video game genres (Shooter, Platform, et
    Function Parameters:
      Genre: Adventure, Action, Strategy, Platform, Role-Playing, Misc, Puzzle, Fighting, Simulation, Shooter, Racing, Sports
      Year: 2012, 2013, 2014, 2015
+     DF: games_2012, games_2013, games_2014, games_2015
 
 *Statistical Analysis:*
  - One-sample t-test function was run for each genre identifying significant effects of the genre on game sales. 
