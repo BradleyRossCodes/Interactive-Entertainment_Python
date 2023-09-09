@@ -22,6 +22,7 @@ Data highlighting major releases across video game genres (Shooter, Platform, et
  - One-sample t-test function was run for each genre identifying significant effects of the genre on game sales. 
 
 See Related SQL Project: https://github.com/BradleyRossCodes/Video_Games_SQL
+
 See Related Tableau Project: https://public.tableau.com/app/profile/bradley.ross4451/viz/VideoGameSales2015_16869513475150/Dashboard1?publish=yes
 
 It is important to note that this analysis is based on a specific time period and limited data. Generated results are only intended for the practice of statistical concepts.
