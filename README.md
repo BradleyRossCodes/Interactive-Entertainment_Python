@@ -1,5 +1,5 @@
 # Video_Games_Python
-A sample Python project reviewing Video Game Sales
+A Python project reviewing Video Game Sales
 
 Data highlighting major releases across video game genres (Shooter, Platform, etc.) between 2012-2015. The project includes an exploration of the number of games released and their global sales figures.
 
